@@ -152,6 +152,6 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
 ## Author - Pranit Laware
-
+LinkedIn:https://www.linkedin.com/in/pranitlaware/
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback feel free to get in touch!
 
